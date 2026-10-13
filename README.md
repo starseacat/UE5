@@ -17,7 +17,7 @@ s04的实操在实践过程中发现版本过低，无法导入免费的高版�
 <img width="2560" height="1382" alt="HighresScreenshot00000" src="https://github.com/user-attachments/assets/697d8f49-1ff0-4dd4-9925-2dda97938bff" />
 <img width="1267" height="694" alt="image" src="https://github.com/user-attachments/assets/eb3fc93c-7906-4dac-9cf1-e23f3e925652" />
 
-
+打开UE5之后发现没有改图的动力了，不知道怎么回事，想收尾但是有心无力，算了，先停一停吧。现在正在了解基础词汇含义（问题1解决中）
 
 
 
